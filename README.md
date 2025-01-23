@@ -1,37 +1,100 @@
 # Capstone-Project-on-MS-Excel
 
-Welcome to the Capstone Project on MS Excel repository! This project focuses on analyzing sales data using Microsoft Excel. The dataset consists of various factors related to customers and their purchasing behavior.
+## 📋 Overview
+This project analyzes key business metrics for Freshco, focusing on order-level distribution, completion rates, customer lifetime value (LTV), and delivery efficiency. The analysis provides actionable insights to improve customer satisfaction, optimize operations, and maximize revenue.
 
-Dataset
-The dataset is stored in an Excel file named Raw Data.xlsx. It includes the following columns:
+## 📂 Project Structure
+The repository contains the following files:
 
-ID
-Marital Status
-Gender
-Income
-Children
-Education
-Occupation
-Home Owner
-Cars
-Commute Distance
-Region
-Age
-Age Bracket
-Purchased Bike
-Project Overview
-This project involves the following steps and components:
+Excel Workbook:
+Contains all calculations, visualizations, and insights organized into four sheets:
+Order Level Analysis
+Completion Rate Analysis
+Customer Level Analysis
+Delivery Analysis
+Report Document:
+A detailed summary of findings, insights, and actionable recommendations for business stakeholders.
+Video Presentation:
+A professionally recorded 10-minute video summarizing the analysis and key takeaways.
 
-Data Cleaning and Preprocessing: The dataset underwent thorough cleaning and preprocessing within Excel to ensure data quality and consistency.
+## 🗝️ Key Objectives and Metrics
+1️⃣ Order Level Analysis
+Goals:
+Analyze order distribution across time slots and delivery areas.
+Track monthly order trends (Jan to Sep).
+Calculate delivery charges and discounts as a percentage of product amounts.
+Deliverables:
+Visualizations and tables for slot and geographic patterns.
+2️⃣ Completion Rate Analysis
+Goals:
+Analyze completion rates by:
+Time slots vs. days of the week.
+Drop areas.
+Number of products in an order.
+Identify trends and improvement areas.
+Deliverables:
+Completion rate patterns and insights.
+3️⃣ Customer Level Analysis
+Goals:
+Calculate Customer Lifetime Value (LTV) for each customer.
+Aggregate LTV by acquisition source and month.
+Analyze average revenue per order by acquisition source and month.
+Discover patterns in order ratings based on time slots, product quantities, discounts, and delivery charges.
+Deliverables:
+LTV tables, segmentation insights, and actionable recommendations.
+4️⃣ Delivery Analysis
+Goals:
+Measure average delivery time by:
+Month and delivery areas.
+Weekdays vs. weekends.
+Time slots.
+Analyze delivery charges and identify patterns.
+Deliverables:
+Tables and visualizations highlighting delivery efficiency and cost patterns.
 
-Pivot Tables and Charts: Utilizing Excel's pivot tables and charting features, we've created visualizations to uncover trends and insights related to different aspects of the dataset.
+## 📊 Insights and Recommendations
+Order Distribution:
+Peak orders are placed during evening and night slots, with urban areas leading in volume.
+Completion Rates:
+Higher completion rates observed during weekdays and morning slots.
+Orders with more items have better completion rates.
+Customer-Level Insights:
+Facebook and referral campaigns yield the highest aggregated LTV.
+Customers acquired in Q1 generate higher average revenue per order.
+Delivery Efficiency:
+Delivery times are faster on weekdays and in urban areas.
+Late-night orders face delays and require optimization.
 
-Sales Analysis Dashboard: The project culminates in a visual dashboard created entirely within Excel. This interactive dashboard provides an overview of the sales data and allows users to explore key metrics and trends.
+## 🛠️ Tools and Technologies Used
+Microsoft Excel: For calculations and visualizations.
+Microsoft Word: For creating the report document.
+Video Editing Tools: To create a professional presentation.
 
-Usage
-To explore the project:
+## 📌 Key Guidelines Followed
+Created a separate sheet in the Excel workbook for each analysis.
+Used proper formatting, charts, and tables for clarity.
+Ensured professional conduct during the video presentation.
+Maintained a conversational tone in the video to engage stakeholders.
 
-Download the Raw Data.xlsx file from this repository.
-Open the Excel file using Microsoft Excel or an equivalent spreadsheet software.
-Navigate through the different sheets to view the data, pivot tables, charts, and the interactive dashboard.
-Feel free to customize the project according to your needs and use it as a reference for your own Excel-based analysis.
+## 📈 Future Enhancements
+Automate data processing and visualization using Python or Power BI.
+Add predictive modeling to forecast order trends and delivery times.
+Expand analysis to include seasonal variations and customer demographics.
+
+## 📝 License
+This project is licensed under the MIT License.
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork this repository and submit a pull request.
+
+## 📧 Contact
+For any queries or feedback, reach out at your-email@example.com.
+
+Feel free to star ⭐ the repository if you found it useful!
+
+
+
+
+
+
+
