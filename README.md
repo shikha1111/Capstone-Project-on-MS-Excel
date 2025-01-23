@@ -1,20 +1,20 @@
 # Capstone-Project-on-MS-Excel
 
 ## 📋 Overview
-This project analyzes key business metrics for Freshco, focusing on order-level distribution, completion rates, customer lifetime value (LTV), and delivery efficiency. The analysis provides actionable insights to improve customer satisfaction, optimize operations, and maximize revenue.
+This project analyzes key business metrics for Freshco Hypermarket home delivery service, focusing on order-level distribution, completion rates, customer lifetime value (LTV), and delivery efficiency. The analysis provides actionable insights to improve customer satisfaction, optimize operations, and maximize revenue.
 
 ## 📂 Project Structure
 The repository contains the following files:
 
-Excel Workbook:
+* Excel Workbook:
 Contains all calculations, visualizations, and insights organized into four sheets:
 Order Level Analysis
 Completion Rate Analysis
 Customer Level Analysis
 Delivery Analysis
-Report Document:
+* Report Document:
 A detailed summary of findings, insights, and actionable recommendations for business stakeholders.
-Video Presentation:
+* Video Presentation:
 A professionally recorded 10-minute video summarizing the analysis and key takeaways.
 
 ## 🗝️ Key Objectives and Metrics
@@ -25,6 +25,7 @@ Track monthly order trends (Jan to Sep).
 Calculate delivery charges and discounts as a percentage of product amounts.
 Deliverables:
 Visualizations and tables for slot and geographic patterns.
+
 2️⃣ Completion Rate Analysis
 Goals:
 Analyze completion rates by:
@@ -34,6 +35,7 @@ Number of products in an order.
 Identify trends and improvement areas.
 Deliverables:
 Completion rate patterns and insights.
+
 3️⃣ Customer Level Analysis
 Goals:
 Calculate Customer Lifetime Value (LTV) for each customer.
@@ -42,6 +44,7 @@ Analyze average revenue per order by acquisition source and month.
 Discover patterns in order ratings based on time slots, product quantities, discounts, and delivery charges.
 Deliverables:
 LTV tables, segmentation insights, and actionable recommendations.
+
 4️⃣ Delivery Analysis
 Goals:
 Measure average delivery time by:
@@ -66,20 +69,15 @@ Delivery times are faster on weekdays and in urban areas.
 Late-night orders face delays and require optimization.
 
 ## 🛠️ Tools and Technologies Used
-Microsoft Excel: For calculations and visualizations.
-Microsoft Word: For creating the report document.
-Video Editing Tools: To create a professional presentation.
+* Microsoft Excel: For calculations and visualizations.
+* Microsoft Word: For creating the report document.
+* Video Editing Tools: To create a professional presentation.
 
 ## 📌 Key Guidelines Followed
 Created a separate sheet in the Excel workbook for each analysis.
 Used proper formatting, charts, and tables for clarity.
 Ensured professional conduct during the video presentation.
 Maintained a conversational tone in the video to engage stakeholders.
-
-## 📈 Future Enhancements
-Automate data processing and visualization using Python or Power BI.
-Add predictive modeling to forecast order trends and delivery times.
-Expand analysis to include seasonal variations and customer demographics.
 
 ## 📝 License
 This project is licensed under the MIT License.
