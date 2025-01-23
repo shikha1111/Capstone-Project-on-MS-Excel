@@ -88,7 +88,7 @@ This project is licensed under the MIT License.
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
 ## 📧 Contact
-For any queries or feedback, reach out at your-email@example.com.
+For any queries or feedback, reach out at shikhaoj@gmail.com
 
 Feel free to star ⭐ the repository if you found it useful!
 
